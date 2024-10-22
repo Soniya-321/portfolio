@@ -14,7 +14,7 @@ function App() {
           <Routes>
             <Route exact path="/" element={<Signup />} />
             <Route exact path="/login" element={<Login />} />
-            <Route exact path='/portfolio' element={<Portfolio />} />
+            <Route exact path='/home' element={<Portfolio />} />
           </Routes>
         </Router>
     </AuthProvider>
