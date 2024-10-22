@@ -1,0 +1,30 @@
+.footer {
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-social {
+    margin-bottom: 10px;
+  }
+  
+  .footer-social a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .footer-social a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-copyright {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  

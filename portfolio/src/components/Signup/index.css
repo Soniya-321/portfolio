@@ -1,0 +1,58 @@
+.auth-container {
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-size: cover;
+}
+.signup-card {
+    background-color: #2B2828;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    font-family: roboto;
+}
+.signup-heading {
+    color: #fff;
+    margin-top: 5px;
+}
+.input-container {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin: 10px 0px;
+}
+.input-label {
+    font-size: 15px;
+}
+.input-box {
+    background-color: transparent;
+    font-size: 13px;
+    border: solid 1px #fff;
+    margin: 5px 0px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    outline: none;
+    color: #fff;
+}
+.signup-btn {
+    background-color: #2156CF;
+    padding: 5px 15px;
+    margin: 5px 0px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-family: roboto;
+}
+.acnt-details {
+    font-size: 15px;
+    color: #fff;
+}
+.login-link {
+    color: #2156CF;
+    text-decoration: none;
+}
